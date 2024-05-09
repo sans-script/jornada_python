@@ -28,7 +28,7 @@ Este projeto demonstra como utilizar Python e a biblioteca Pandas para analisar 
 
 - Python 3.x
 - Pandas
-- Plotly (opcional, para criação de gráficos)
+- Plotly
 
 ### Conclusão
 
