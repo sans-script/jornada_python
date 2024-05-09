@@ -17,4 +17,4 @@ Este projeto demonstra como utilizar Python e a biblioteca Pandas para analisar 
 
 #
 
-Cada pasta contém um README específico que fornece mais detalhes sobre o projeto, incluindo funcionalidades, dependências, instruções de instalação e execução, além de uma conclusão que resume os resultados obtidos.
+Cada pasta contém um README específico que fornece mais detalhes sobre o projeto, incluindo funcionalidades e dependências, além de uma conclusão que resume os resultados obtidos.
