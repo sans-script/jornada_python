@@ -24,12 +24,6 @@ Este código em Python simula operações básicas de um caixa eletrônico, como
 * O código utiliza uma senha fixa. Em um sistema real, essa senha deveria ser armazenada de forma segura e verificada com métodos mais robustos.
 * O código não persiste os dados da conta. Ou seja, o saldo é reiniciado a cada execução do programa. 
 
-**Possíveis melhorias:**
-
-* Implementar persistência de dados para armazenar o saldo da conta.
-* Implementar um sistema de autenticação mais seguro.
-* Adicionar funcionalidades como transferência entre contas, pagamento de contas, etc.
-
 **Exemplo de uso:**
 
 ```
